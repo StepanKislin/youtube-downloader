@@ -1,0 +1,39 @@
+<!-- .gitignore -->
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Загрузки (кроме .gitkeep)
+downloads/*
+!downloads/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Конфигурация с секретами
+.env
+.env.local
+
+# Базы данных
+*.db
+*.sqlite

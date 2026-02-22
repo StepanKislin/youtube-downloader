@@ -1,0 +1,86 @@
+{"timestamp": "2026-02-22 20:31:39,764", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 128, "message": "🚀 Logging system initialized"}
+{"timestamp": "2026-02-22 20:31:39,765", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 268, "message": "Background tasks started"}
+{"timestamp": "2026-02-22 20:31:39,770", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 783, "message": "🚀 TubeFlow Pro starting on 0.0.0.0:5001"}
+{"timestamp": "2026-02-22 20:31:39,770", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 784, "message": "📁 Downloads folder: /Users/stepankislin/youtubeDownloader/downloads"}
+{"timestamp": "2026-02-22 20:31:39,770", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 785, "message": "🧹 Cleanup interval: 300s"}
+{"timestamp": "2026-02-22 20:31:39,770", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 786, "message": "📊 Metrics interval: 60s"}
+{"timestamp": "2026-02-22 20:31:39,804", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://198.18.0.1:5001"}
+{"timestamp": "2026-02-22 20:31:39,805", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "[33mPress CTRL+C to quit[0m"}
+{"timestamp": "2026-02-22 20:32:07,050", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[4e7091d3] GET / - 200 (0.011s)"}
+{"timestamp": "2026-02-22 20:32:07,052", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:32:07] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:33:19,567", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[3d1378ab] GET / - 200 (0.000s)"}
+{"timestamp": "2026-02-22 20:33:19,567", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:33:19] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:37:12,729", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[811e587d] GET / - 200 (0.008s)"}
+{"timestamp": "2026-02-22 20:37:12,730", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:37:12] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:37:13,915", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[807b927b] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:37:13,916", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:37:13] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:37:14,578", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[9ddc9427] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:37:14,579", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:37:14] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:37:15,080", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[212e9936] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:37:15,081", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:37:15] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:39:22,003", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[1472eb8e] GET / - 200 (0.011s)"}
+{"timestamp": "2026-02-22 20:39:22,004", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:39:22] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:39:22,744", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[4c6fecf8] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:39:22,744", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:39:22] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:39:23,133", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[ad3a3c59] GET / - 200 (0.000s)"}
+{"timestamp": "2026-02-22 20:39:23,134", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:39:23] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:39:23,712", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[28ec7525] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:39:23,712", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:39:23] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:39:48,273", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[bcfde973] GET / - 200 (0.002s)"}
+{"timestamp": "2026-02-22 20:39:48,274", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:39:48] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:39:48,950", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[4289fb5f] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:39:48,950", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:39:48] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:39:49,180", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[11feb9e1] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:39:49,180", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:39:49] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:39:49,384", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[3124b2a9] GET / - 200 (0.000s)"}
+{"timestamp": "2026-02-22 20:39:49,384", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:39:49] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:39:49,563", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[28af912a] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:39:49,563", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:39:49] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:42:43,887", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[39cfc310] GET / - 200 (0.007s)"}
+{"timestamp": "2026-02-22 20:42:43,887", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:42:43] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:42:43,903", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[78e3f1bf] GET /static/css/style.css - 200 (0.004s)"}
+{"timestamp": "2026-02-22 20:42:43,906", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:42:43] "GET /static/css/style.css HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:43:42,917", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[c092a898] GET / - 200 (0.002s)"}
+{"timestamp": "2026-02-22 20:43:42,918", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:43:42] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:43:42,932", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[77fe115d] GET /static/css/style.css - 304 (0.001s)"}
+{"timestamp": "2026-02-22 20:43:42,932", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:43:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -"}
+{"timestamp": "2026-02-22 20:43:43,487", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[6b7c31a3] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:43:43,488", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:43:43] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:43:43,495", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[23540fa9] GET /static/css/style.css - 304 (0.001s)"}
+{"timestamp": "2026-02-22 20:43:43,495", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:43:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -"}
+{"timestamp": "2026-02-22 20:43:43,659", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[1970e02c] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:43:43,659", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:43:43] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:43:43,666", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[457cb47b] GET /static/css/style.css - 304 (0.001s)"}
+{"timestamp": "2026-02-22 20:43:43,667", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:43:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -"}
+{"timestamp": "2026-02-22 20:43:43,800", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[0a223a92] GET / - 200 (0.000s)"}
+{"timestamp": "2026-02-22 20:43:43,800", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:43:43] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:43:43,804", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[1a25d860] GET /static/css/style.css - 304 (0.000s)"}
+{"timestamp": "2026-02-22 20:43:43,804", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:43:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -"}
+{"timestamp": "2026-02-22 20:47:24,796", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[fc4defd7] GET / - 200 (0.006s)"}
+{"timestamp": "2026-02-22 20:47:24,797", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:47:24] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:47:24,807", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[4eee5abb] GET /static/css/style.css - 304 (0.001s)"}
+{"timestamp": "2026-02-22 20:47:24,807", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:47:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -"}
+{"timestamp": "2026-02-22 20:47:46,360", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[c7d7a02f] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:47:46,362", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:47:46] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:47:46,371", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[1edf2a6b] GET /static/css/style.css - 304 (0.001s)"}
+{"timestamp": "2026-02-22 20:47:46,372", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:47:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -"}
+{"timestamp": "2026-02-22 20:49:53,040", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[2ccce4e2] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 20:49:53,041", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:49:53] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 20:49:53,053", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[c8c122ec] GET /static/css/style.css - 304 (0.001s)"}
+{"timestamp": "2026-02-22 20:49:53,054", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:49:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -"}
+{"timestamp": "2026-02-22 20:59:23,270", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[99d00e81] GET / - 200 (0.009s)"}
+{"timestamp": "2026-02-22 20:59:23,271", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 20:59:23] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 21:19:19,342", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[47d7df26] GET / - 200 (0.008s)"}
+{"timestamp": "2026-02-22 21:19:19,343", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 21:19:19] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 21:19:20,327", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[95786f7b] GET / - 200 (0.002s)"}
+{"timestamp": "2026-02-22 21:19:20,328", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 21:19:20] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 21:19:20,576", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[f74d32d3] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 21:19:20,577", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 21:19:20] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 21:19:20,819", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 156, "message": "[0a85e956] GET / - 200 (0.001s)"}
+{"timestamp": "2026-02-22 21:19:20,819", "level": "INFO", "logger": "werkzeug", "file": "_internal.py", "line": 97, "message": "127.0.0.1 - - [22/Feb/2026 21:19:20] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2026-02-22 21:25:13,818", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 272, "message": "🛑 Shutdown signal received, cleaning up..."}
+{"timestamp": "2026-02-22 21:25:14,525", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 280, "message": "✅ Graceful shutdown completed"}
+{"timestamp": "2026-02-22 21:25:14,528", "level": "INFO", "logger": "TubeFlow", "file": "app.py", "line": 286, "message": "Application stopped"}
